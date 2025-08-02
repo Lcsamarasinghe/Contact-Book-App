@@ -25,7 +25,7 @@ The **Contact Book App** is an Android application built with **SQLite** for loc
 
 ## **Screenshots**
 
-![App Screenshot](https://github.com/Lcsamarasinghe/Packet-Sniffer/blob/main/1.PNG)
+![App Screenshot](https://github.com/Lcsamarasinghe/Contact-Book-App/blob/main/2.PNG)
 
 ---
 
