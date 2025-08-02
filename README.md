@@ -1,6 +1,6 @@
 # **Contact Book App**
 
-![Screenshot]([https://github.com/Lcsamarasinghe/Packet-Sniffer/blob/main/1.PNG](https://github.com/Lcsamarasinghe/Contact-Book-App/blob/main/1.PNG))
+![Screenshot]([https://github.com/Lcsamarasinghe/Packet-Sniffer/blob/main/1.PNG](https://github.com/Lcsamarasinghe/Contact-Book-App/blob/main/1.PNG)
 
 ---
 
